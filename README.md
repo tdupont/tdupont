@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## I am currently a PhD Candidate in Machine Learning at NeuroSpin - CEA in the GAIA Lab (Edouard Duchesnay)
+## My name is Thibault Dupont
+## I am currently a PhD student in Machine Learning at NeuroSpin - CEA in the GAIA Lab (Edouard Duchesnay)
